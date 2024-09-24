@@ -4,6 +4,6 @@ I have extensive experience working on environmental, coastal, and oceanographic
 and automating data challenges across any field, creating efficient solutions that make complex tasks more manageable.
 
 - 🔭 I’m currently working on migrating apps to Azure and developing a data warehouse for eDNA data
-- 🌱 I’m currently learning about Azure gateways 
+- 🌱 I’m currently learning about Azure gateways and Snowflake
 - 👯 I’m looking to collaborate on big data ELT pipelines
 - 😄 Pronouns: she/her
